@@ -1,0 +1,29 @@
+{
+  "name": "template-benchmark",
+  "version": "1.0.0",
+  "description": "Benchmarking multiple templating engines for nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "dot": "^1.0.3",
+    "ect": "^0.5.9",
+    "html-minifier": "^1.0.0",
+    "jade": "^1.11.0",
+    "nunjucks": "^2.2.0",
+    "swig": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template",
+    "benchmark",
+    "doT",
+    "ect",
+    "jade",
+    "nunjucks",
+    "swig"
+  ],
+  "author": "Bharat Kishnani",
+  "license": "MIT"
+}

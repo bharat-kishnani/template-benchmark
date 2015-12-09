@@ -1,0 +1,6 @@
+<h1>{{=it.pagename}}</h1>
+<ul>
+{{ for(var author in it.authors) { }}
+<li>{{=it.authors[author]}}</li>
+{{ } }}
+</ul>
